@@ -1,0 +1,3 @@
+pythony自動化對比交易單並產生報表
+python寫入excel、讀取csv、讀取pdf
+# Automated-comparison-of-transaction-orders
